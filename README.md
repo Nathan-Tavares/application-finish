@@ -63,8 +63,6 @@ const db = getFirestore(app);
 export { auth, db, signInWithEmailAndPassword, updatePassword, reauthenticateWithCredential };
 
 
-# Expo
 
-expo start
 
 
