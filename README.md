@@ -78,30 +78,4 @@ export { auth, db, signInWithEmailAndPassword, updatePassword, reauthenticateWit
 
 expo start
 
-Uso
-Login
-Abra o aplicativo.
-Insira seu email e senha.
-Clique no botão "Entrar".
-Registro
-Na tela de login, clique em "Criar conta".
-Insira seu email e senha.
-Clique no botão "Registrar".
-Redefinição de Senha
-Na tela de login, clique em "Esqueceu a senha?".
-Insira seu email.
-Clique no botão "Enviar".
-Gerenciamento de Tarefas
-Após o login, você verá a tela de tarefas.
-Adicione uma nova tarefa usando o campo de entrada e o botão "Adicionar".
-Edite uma tarefa clicando no ícone de editar, altere o texto e salve.
-Exclua uma tarefa clicando no ícone de lixeira.
-Faça logout clicando no botão "Logout".
 
-Contribuição
-
-Faça um fork do projeto.
-Crie uma nova branch (git checkout -b feature/nova-feature).
-Faça commit das suas alterações (git commit -am 'Adiciona nova feature').
-Envie para a branch (git push origin feature/nova-feature).
-Abra um Pull Request.
