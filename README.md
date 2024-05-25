@@ -32,9 +32,9 @@ TaskManager é uma aplicação de gerenciamento de tarefas construída com React
 git clone https://github.com/Nathan-Tavares/application-finish.git
 cd application-finish
 
-npm install
 
-3. Configurar o Firebase
+# Firebase
+- Configurar o Firebase
 Crie um projeto no Firebase Console.
 Adicione um aplicativo web ao seu projeto Firebase e copie a configuração do Firebase.
 Substitua o conteúdo do arquivo src/config/firebase.js com as suas configurações do Firebase:
@@ -61,6 +61,9 @@ const auth = initializeAuth(app, {
 const db = getFirestore(app);
 
 export { auth, db, signInWithEmailAndPassword, updatePassword, reauthenticateWithCredential };
+
+
+# Expo
 
 expo start
 
