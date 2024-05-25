@@ -11,6 +11,11 @@ TaskManager é uma aplicação de gerenciamento de tarefas construída com React
 
 ## Estrutura do Projeto
 
+# Dependências 
+
+npm install -g expo-cli
+npm install
+npm install firebase @react-native-async-storage/async-storage react-native-modal @expo/vector-icons
 
 
 ## Pré-requisitos
