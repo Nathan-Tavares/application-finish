@@ -11,25 +11,6 @@ TaskManager é uma aplicação de gerenciamento de tarefas construída com React
 
 ## Estrutura do Projeto
 
-src/
-├── components/
-│ └── CustomAlert.js # Componente de alerta personalizado
-├── config/
-│ └── firebase.js # Configuração do Firebase
-├── pages/
-│ ├── login/
-│ │ ├── index.js # Tela de login
-│ │ └── style.js # Estilos da tela de login
-│ ├── register/
-│ │ ├── index.js # Tela de registro
-│ │ └── style.js # Estilos da tela de registro
-│ ├── resetPassword/
-│ │ ├── index.js # Tela de redefinição de senha
-│ │ └── style.js # Estilos da tela de redefinição de senha
-│ └── tarefas/
-│ ├── index.js # Tela de gerenciamento de tarefas
-│ └── style.js # Estilos da tela de gerenciamento de tarefas
-└── App.js # Componente principal da aplicação
 
 
 ## Pré-requisitos
